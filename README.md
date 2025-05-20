@@ -2,6 +2,7 @@
 
 ### Please find this is day2_purchases_completed
 
+
 Tasks Completed:
 
 Loaded two separate datasets: a Customer Table and a Purchase History Table
