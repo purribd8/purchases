@@ -1,6 +1,6 @@
 # Purchases
 
-### Please find this is day2_purchases_completed
+### Please find the day2_purchases_completed file.
 
 
 Tasks Completed:
